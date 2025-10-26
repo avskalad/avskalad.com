@@ -1,0 +1,12 @@
+title: Avskalad
+email: hello@avskalad.com
+description: >-
+  A site about improving our lives.
+baseurl: ""
+url: "https://www.avskalad.com"
+plugins:
+  - jekyll-feed
+collections:
+  writings:
+    output: true
+    permalink: /:title/
