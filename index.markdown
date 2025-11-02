@@ -6,25 +6,25 @@ layout: post
 - [What's this about?]({% link _writings/about.markdown %})
 
 ## General
-- Curation
-- Quality
-- Competence
+- [Curation]({% link _writings/curation.markdown %})
+- [Quality]({% link _writings/quality.markdown %})
+- [Competence]({% link _writings/competence.markdown %})
 - Say no
 - Dress for your life
 - Your home
 
 ## Focus
 - Notifications
+- Micro-stress
 - [Advertisement]({% link _writings/ads.markdown %})
-- Social media
-- News
+- [Social media]({% link _writings/social_media.markdown %})
 
 ## Technology
-- Autonomy
-    - Escape hatches
+- [Autonomy]({% link _writings/autonomy.markdown %})
+    - [Escape hatches]({% link _writings/autonomy.markdown %}#escape-hatches)
+    - [Offline enabled]({% link _writings/autonomy.markdown %}#offline-enabled)
 - Dedicated tools
-- Offline enabled
-- Computer station
+- Smartphones
 
 ## Consumption
 - Materials
@@ -36,6 +36,7 @@ layout: post
 ## Work
 - Switching jobs
 - Multitasking
+- Stress
 
 ## Food
-- Check ingredients
+- Ingredients
